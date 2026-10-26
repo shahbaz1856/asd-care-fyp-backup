@@ -118,6 +118,7 @@ Explainability outputs are intended for model inspection and research analysis. 
 - **Deployment exploration:** TensorFlow Lite and mobile application technologies
 
 
+
 ## Reproducibility
 
 The project is organized around documented experiments, dataset preparation, model training, evaluation, and result reporting.
@@ -156,9 +157,10 @@ Performance estimates depend on dataset quality, sampling, class balance, split 
 
 ## Academic Context
 
+**Final Year Project (FYP)**  
 
 
-**Project Authors:** Shahbaz Ahmad and Waqas ahmad 
+**Project Authors:** Shahbaz Ahmad and Waqas Ahmad
 
 
 ## Acknowledgments
